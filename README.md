@@ -4,7 +4,7 @@
 >
 > 油猴脚本 -> https://greasyfork.org/en/scripts/420999
 
-## update notion database from csv
+## update notion database from csv 
 
 在前一次导出后过了一段时间，在豆瓣上又有新的标记，但没有简单方法可以同步，又不想手动添加。
 终于等到了 notion public API 发布出来。
